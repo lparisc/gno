@@ -1,0 +1,13 @@
+title: Take home task - Luis Paris
+remote_theme: zendesk/jekyll-theme-zendesk-garden@v0.7.3
+
+baseurl: /gno
+
+search_enabled: true
+auto_page_title: true
+version: false
+
+sidebar:
+  - task
+  - rationale
+  - article
