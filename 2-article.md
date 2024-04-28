@@ -5,7 +5,7 @@ title: Article
 
 ## Why Gno? The Need for the GnoVM for Smart Contract Programming
 
-In the perennial evolution of blockchain technology, the development of smart contracts has become pivotal in enabling decentralized applications (dApps). The introduction of Gno, a programming environment derived from the widely-used Go language, marks a significant milestone in this space. This article explores the need for the Gno programming language, the GnoVM (Gno Virtual Machine) for smart contract development, their foundational principles, functionalities, and how they stand to redefine the blockchain technology landscape.
+In the perennial evolution of blockchain technology, the development of smart contracts has become pivotal in enabling decentralized applications (dApps) among blockchain actors. The introduction of Gno, a programming environment derived from the widely-used Go language, marks a significant milestone in this race. This article explores the need for the Gno language and the GnoVM (Gno Virtual Machine) for smart contract programming and execution, respectively. It also discusses their foundational principles, functionalities, and how they stand to redefine the blockchain technology landscape.
 
 ### 1. Introduction to Gno
 
@@ -13,7 +13,7 @@ Gno, which stands for "Go Networked Objects", is an interpreted, deterministic i
 
 ### 2. Gno Development Environment
 
-One of the reasons for choosing Gno as the language of choice for smart contract development stems from the simplicity of getting onboarded with the Gno ecosystem. Gno.land offers at least two options to get started with Gno development:
+One of the reasons for choosing Gno as the language and platform of choice for smart contract development is its simplicity of use. Gno.land offers at least two options to get started with Gno development:
 
 * [Gno Web Playground](#21-gno-web-playground)
 * [Gno Local Setup](#22-gno-local-setup)
@@ -69,7 +69,7 @@ GnoVM is the virtual machine that executes the smart contracts deployed on the G
 
 Unlike traditional VMs, which often compile code to bytecode, GnoVM interprets high-level Gno language directly. This interpretation process reduces computational overhead, improves execution speed, and simplifies the debugging process, allowing developers to work directly with high-level code during testing and deployment phases. Moreover, the Gno VM's architecture allows for the freezing and resuming of program states, enabling more efficient memory and process management.
 
-### 5. Gno.land Blockchain
+### 5. Gno.land Ecosystem
 
 Gno.land is the dedicated Layer 1 blockchain platform that interprets the Gno language instructions to execute smart contracts. It embodies a transparent, open-source ecosystem where the full source code of contracts must be published for actual deployment, facilitating a community-driven approach to development. This transparency ensures that contracts are verifiable and that the platform remains secure and trustworthy.
 
